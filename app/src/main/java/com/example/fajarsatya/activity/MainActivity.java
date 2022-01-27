@@ -161,7 +161,6 @@ public class MainActivity extends AppCompatActivity {
                         img.setImageResource(R.drawable.ic_no_profile);
                         textView.setText("No similiar User Found");
                     }else{
-                        page_number++;
                         setAdapter();
                     }
                 }else{
