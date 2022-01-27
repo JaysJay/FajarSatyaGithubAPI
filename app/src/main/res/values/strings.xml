@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FajarSatya</string>
+    <string name="gps_network_not_enabled">Internet is not Enabled</string>
+    <string name="open_location_settings">Open Setting</string>
+</resources>
